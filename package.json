@@ -11,5 +11,15 @@
   "workspaces": [
     "gatsby-theme-intro",
     "site"
-  ]
+  ],
+  "name": "gatsby-theme-intro",
+  "repository": "https://github.com/Plunky33/gatsby-theme-intro.git",
+  "author": "John Milner <johnmilnerapple@gmail.com>",
+  "dependencies": {
+    "@wkocjan/gatsby-theme-intro": "^1.1.0",
+    "eslint": "^7.21.0",
+    "gatsby": "^3.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
